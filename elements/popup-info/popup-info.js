@@ -78,16 +78,12 @@ class PopupInfo extends HTMLElement {
       text: {
         name: "text",
         type: "String",
-        value: "",
-        reflectToAttribute: false,
-        observer: false
+        value: ""
       },
       img: {
         name: "img",
         type: "String",
-        value: "",
-        reflectToAttribute: false,
-        observer: false
+        value: ""
       }
     };
   }
