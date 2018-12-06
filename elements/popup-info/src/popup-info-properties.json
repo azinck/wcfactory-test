@@ -1,0 +1,16 @@
+{
+  "text": {
+    "name": "text",
+    "type": "String",
+    "value": "",
+    "reflectToAttribute": false,
+    "observer": false
+  },
+  "img": {
+    "name": "img",
+    "type": "String",
+    "value": "",
+    "reflectToAttribute": false,
+    "observer": false
+  }
+}

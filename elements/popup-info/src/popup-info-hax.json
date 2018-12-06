@@ -1,0 +1,41 @@
+{
+  "canScale": true,
+  "canPosition": true,
+  "canEditSource": false,
+  "gizmo": {
+    "title": "Popup info",
+    "description": "",
+    "icon": "icons:android",
+    "color": "green",
+    "groups": ["Info"],
+    "handles": [
+      {
+        "type": "todo:read-the-docs-for-usage"
+      }
+    ],
+    "meta": {
+      "author": "azinck",
+      "owner": ""
+    }
+  },
+  "settings": {
+    "quick": [],
+    "configure": [
+      {
+        "property": "text",
+        "description": "",
+        "inputMethod": "textfield",
+        "required": false,
+        "icon": "icons:android"
+      },
+      {
+        "property": "img",
+        "description": "",
+        "inputMethod": "textfield",
+        "required": false,
+        "icon": "icons:android"
+      }
+    ],
+    "advanced": []
+  }
+}
