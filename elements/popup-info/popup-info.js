@@ -191,5 +191,5 @@ class PopupInfo extends HTMLElement {
   // disconnectedCallback() {}
   // attributeChangedCallback(attr, oldValue, newValue) {}
 }
-window.customElements.define(PopupInfo.tag, PopupInfo);
+window.customElements.define("popup-info", PopupInfo);
 export { PopupInfo };
